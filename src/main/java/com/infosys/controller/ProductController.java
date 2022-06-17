@@ -60,5 +60,6 @@ public class ProductController {
 		return service.delProduct(id);
 		
 	}
+	System.out.println("I'm an athlete");
 	
 }
